@@ -1,6 +1,6 @@
 CREATE OR REPLACE FUNCTION SQL_TO_DBLINKSQL_F(l_sql varchar2,DB_LINK VARCHAR2) RETURN VARCHAR2 IS
 /*
-Copyright DarkAthena
+Copyright DarkAthena(darkathena@qq.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
